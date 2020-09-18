@@ -1,0 +1,19 @@
+{
+  "name": "rest_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambujalpha/REST_NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambujalpha/REST_NodeJS/issues"
+  },
+  "homepage": "https://github.com/ambujalpha/REST_NodeJS#readme"
+}
